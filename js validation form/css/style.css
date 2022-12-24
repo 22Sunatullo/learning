@@ -1,0 +1,19 @@
+
+.form{
+    margin-left: 600px;
+    
+}
+
+.form input {
+    margin-top: 10px;
+}
+
+
+.form button {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.emailEror {
+    color: red;
+}
