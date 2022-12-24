@@ -10,7 +10,7 @@ const validations = [
         validation: didEmailPassedValidation
     },
     {
-        element: document.querySelector('.pas'),
+        element: document.querySelector('.pas')
         validation: didPasswordPassesValidation
     },
     {
